@@ -1,6 +1,6 @@
 <h1>Sales and Revenue Report</h1>
 <p>
-    Using PowerBI to create a dynamic dashboard to unlock insights on sales data to identify trends, behavioral patters, so the Sales Team can understand the current escenario, what to do to reinforce market presence and earn new Customers.
+    A Sales dashboard to unlock insights on sales data to identify trends, behavioral patters, so the Sales Team  and Leaders can understand what drive sales in order to reinformce and stregthen sales strategies to improve revew performance. 
     </p>
 
 <h2>Why is the analysis for?</h2>
