@@ -1,7 +1,7 @@
 <h1>Sales and Revenue Report</h1>
 <p>
     
-This dashboard unlocks insights on sales data to help identify trends, behavioral patterns, in order to understand what drive sales, reinforce and strengthen sales strategies to improve revenue performance, know your top Customer to help keep and build a good and strong bisiness relationship.
+This dashboard unlocks insights on sales data to help identify trends, behavioral patterns, in order to understand what drive sales, reinforce and strengthen sales strategies to improve revenue performance, know your top Customer to help keep and build a good and strong business relationship.
     </p>
 
 <h2>Why is the analysis for?</h2>
