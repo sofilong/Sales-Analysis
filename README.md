@@ -1,6 +1,7 @@
 <h1>Sales and Revenue Report</h1>
 <p>
-    A Sales dashboard to unlock insights on sales data to identify trends, behavioral patters, so the Sales Team  and Leaders can understand what drive sales in order to reinformce and stregthen sales strategies to improve revew performance. 
+    
+This dashboard unlocks insights on sales data to help identify trends, behavioral patterns, in order to understand what drive sales, reinforce and strengthen sales strategies to improve revenue performance.
     </p>
 
 <h2>Why is the analysis for?</h2>
@@ -17,7 +18,7 @@
 
 <h2>Use Cases</h2>
 <ul>
-  <li>Sales analysis variance on monthly basis</li>
+  <li>Variance sales analysis on monthly basis</li>
   <li>Deep research on market presence by Region/State</li>
   <li>Customer management and relationship</li>
   <li>New business opportunities and scalability</li>
